@@ -17,3 +17,8 @@ ruby:
     delivered fast, you should add Ruby to your toolbox.
   price: 49.50
   image_url: ruby.jpg
+little_title:
+  title: Progra
+  description: Lorem Ipsum Dolor Sit Amet
+  price: 12.89
+  image_url: little_title.jpg
